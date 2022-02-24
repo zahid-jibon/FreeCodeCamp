@@ -1,4 +1,5 @@
 <style>
+
   div {
     height: 40px;
     width: 70%;
@@ -30,6 +31,8 @@
       left: -25px;
     }
   }
+
+
 </style>
 
 <div id="rect"></div>
